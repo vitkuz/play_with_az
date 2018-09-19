@@ -1,0 +1,18 @@
+{
+  "name": "Az_Learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "az": "^0.2.3",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js --inspect"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
